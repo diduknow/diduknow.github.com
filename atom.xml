@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[DIDUKNOW.IT?]]></title>
   <link href="http://diduknow.github.com/atom.xml" rel="self"/>
   <link href="http://diduknow.github.com/"/>
-  <updated>2012-09-15T23:37:31+03:00</updated>
+  <updated>2012-09-16T00:21:50+03:00</updated>
   <id>http://diduknow.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Zeon]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
