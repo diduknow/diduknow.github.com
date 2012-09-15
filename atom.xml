@@ -4,7 +4,7 @@
   <title><![CDATA[DIDUKNOW.IT?]]></title>
   <link href="http://diduknow.github.com/atom.xml" rel="self"/>
   <link href="http://diduknow.github.com/"/>
-  <updated>2012-09-16T00:30:31+03:00</updated>
+  <updated>2012-09-16T00:38:23+03:00</updated>
   <id>http://diduknow.github.com/</id>
   <author>
     <name><![CDATA[Zeon]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[2]]></title>
-    <link href="http://diduknow.github.com/blog/2012/09/16/2/"/>
-    <updated>2012-09-16T00:29:00+03:00</updated>
-    <id>http://diduknow.github.com/blog/2012/09/16/2</id>
-    <content type="html"><![CDATA[<p><img src="http://placekitten.com/600/400"></p>
-]]></content>
-  </entry>
   
 </feed>
