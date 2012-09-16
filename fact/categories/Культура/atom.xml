@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Культура | DIDUKNOW.IT?]]></title>
+  <link href="http://diduknow.github.com/fact/categories/Культура/atom.xml" rel="self"/>
+  <link href="http://diduknow.github.com/"/>
+  <updated>2012-09-17T00:35:58+03:00</updated>
+  <id>http://diduknow.github.com/</id>
+  <author>
+    <name><![CDATA[Zeon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2]]></title>
+    <link href="http://diduknow.github.com/fact/2/"/>
+    <updated>2012-09-16T01:01:00+03:00</updated>
+    <id>http://diduknow.github.com/fact/2</id>
+    <content type="html"><![CDATA[<p><img src="/images/facts/2.jpg" width="600" height="400"></p>
+]]></content>
+  </entry>
+  
+</feed>
